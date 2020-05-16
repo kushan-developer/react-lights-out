@@ -1,4 +1,4 @@
-#Lights out Game
+# Lights out Game
 
 ## Available Scripts
 
